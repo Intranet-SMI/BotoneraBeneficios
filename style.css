@@ -1,26 +1,16 @@
 body{
-	
 	margin: 0 auto!important;
 }
 .cabecera-formato-items{
 	width: 700px;
 	height: 30px;
-	/*background-color:#f00;*/
-	margin: 2px 0 ;
-	
+	margin: 2px 0 ;	
 }
-.resumen-formato-items{
-	/*width: 700px;*/
-	/*height: 400px;*/
-	/*background: blue;*/
-}
-
 .boton{
 	width: 200px;
 	height:30px;
 	border-radius: 10px;
 }
-
 #iten1 , #iten2 , #iten3 , #iten4 , #iten5 , #iten6{
 	border-radius: 10px;
 	margin-top: 20px;
@@ -33,9 +23,4 @@ body{
 	width: 400px;
 	margin: 6px;
 	line-height: 1.1;
-}
-
-#imagen{
-	width: 240px;
-	
 }
