@@ -2,7 +2,7 @@ body{
 	margin: 0 auto!important;
 }
 .cabecera-formato-items{
-	width: 700px;
+	width: auto;
 	height: 30px;
 	margin: 2px 0 ;	
 }
@@ -44,7 +44,7 @@ fieldset {
 
 }
 
-input[type=submit]{
+.cabecera-formato-items input[type=button]{
 	/*width: auto;*/
 	cursor: pointer;
 	background-color: rgba(0,0,0,0.6);
@@ -53,10 +53,10 @@ input[type=submit]{
 	transition-duration:.5s;
 }
 
-input[type=submit]:hover{
+.cabecera-formato-items input[type=button]:hover{
 	background-color: #e51400
 }
 
-input:focus{
+.cabecera-formato-items vinput:focus{
 	border-bottom-color: #ff9900;
 }
