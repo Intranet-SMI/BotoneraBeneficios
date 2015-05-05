@@ -51,6 +51,7 @@ fieldset {
 	color: #fff;
 	transition-property:background-color;
 	transition-duration:.5s;
+	outline: 0;
 }
 
 .cabecera-formato-items input[type=button]:hover{
