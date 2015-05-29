@@ -114,7 +114,7 @@ fieldset {
 	}
 	#texto{
 		width: 200px;
-		font-size: 15px;
+		/*font-size: 15px;*/
 	}
 
 	.cabecera-formato-items{
@@ -149,15 +149,15 @@ fieldset {
 	}
 
 	#imagen img{
-		width: 80px;
-		margin: 0 69px;
+		/*width: 80px;*/
+		margin: 0 35px;
 	}
 	.boton{
 		height:20px;
 	}
 	#texto{
 		width: 200px;
-		font-size: 12px;
+		/*font-size: 12px;*/
 	}	
 	.cabecera-formato-items{
 		height: 20px;
